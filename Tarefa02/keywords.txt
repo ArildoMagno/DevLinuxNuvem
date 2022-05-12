@@ -1,0 +1,21 @@
+[heuristica]
+   IA
+   heuristica
+   
+[banco de dados]
+   banco de dados
+   relacional
+   
+[programacao]
+   algoritmo
+   estrutura de dados
+   
+[texto]
+   .txt
+   
+[doc]
+   .doc
+   .docx
+   
+[pdf]
+   .pdf

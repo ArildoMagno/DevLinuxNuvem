@@ -1,0 +1,3 @@
+IA
+algoritmo
+   estrutura de dado

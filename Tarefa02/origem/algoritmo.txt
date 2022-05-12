@@ -1,0 +1,6 @@
+IA
+   heuristica
+   metaheuristica
+   genetico
+   algoritmo evolutivo
+   GRASP

@@ -1,0 +1,4 @@
+banco de dados
+   relacional
+algoritmo
+   estrutura de dados
